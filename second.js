@@ -1,7 +1,3 @@
-//Assignment 2
-
-
-//Question - 1
 
 for (i=1; i<=100; i++)
 {
