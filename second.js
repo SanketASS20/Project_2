@@ -21,7 +21,7 @@ for (i=1; i<=100; i++)
 
 //Question - 2
 
-let str = "madam knows malayalam well "
+let str = "Working Fine "
 let str1 = "", str2 = ""
   for (t of str) {
     if (t != " ") {
