@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" href="third.css">
-    <title>Day 2 Session HTML & CSS</title>
+    <title>Day 2 HTML & CSS</title>
     
     <pre class="three">
         TABLE
@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <th>Kiran</th>
-    <th>19</th>
+    <th>18</th>
     <th>Male</th>
     <th>Pune</th>
     <th>B</th>
@@ -48,9 +48,9 @@
 </tr>
 <tr>
     <th>Yash</th>
-    <th>19</th>
+    <th>18</th>
     <th>Male</th>
-    <th>Hyderabad</th>
+    <th>Nagar</th>
     <th>D</th>
     
 
