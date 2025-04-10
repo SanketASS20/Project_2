@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" href="third.css">
-    <title>Day 2 HTML & CSS</title>
+    <title>Learning HTML & CSS</title>
     
     <pre class="three">
         TABLE
@@ -14,7 +14,7 @@
    <table class="one" border="6">
     <thead>
         <tr>
-            <th>STUDENT NAME</th>
+            <th>FRIENDS NAMES</th>
             <th>AGE</th>
             <th>GENDER</th>      
             <th>PLACE</th>
